@@ -1,8 +1,6 @@
 name: flutter_restart
 description: A new Flutter plugin.
 version: 0.0.4
-authors:
-  - just.gam3
 homepage: https://github.com/justgam3/FlutterRestartPlugin
 
 environment:
